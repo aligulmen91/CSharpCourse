@@ -1,0 +1,8 @@
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\010ConditionalStatements\bin\Debug\010ConditionalStatements.exe.config
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\010ConditionalStatements\bin\Debug\010ConditionalStatements.exe
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\010ConditionalStatements\bin\Debug\010ConditionalStatements.pdb
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\010ConditionalStatements\obj\Debug\010ConditionalStatements.csproj.AssemblyReference.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\010ConditionalStatements\obj\Debug\010ConditionalStatements.csproj.SuggestedBindingRedirects.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\010ConditionalStatements\obj\Debug\010ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\010ConditionalStatements\obj\Debug\010ConditionalStatements.exe
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\010ConditionalStatements\obj\Debug\010ConditionalStatements.pdb
