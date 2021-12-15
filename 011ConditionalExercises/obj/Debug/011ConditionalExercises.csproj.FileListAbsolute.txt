@@ -1,0 +1,8 @@
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\011ConditionalExercises\bin\Debug\011ConditionalExercises.exe.config
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\011ConditionalExercises\bin\Debug\011ConditionalExercises.exe
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\011ConditionalExercises\bin\Debug\011ConditionalExercises.pdb
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\011ConditionalExercises\obj\Debug\011ConditionalExercises.csproj.AssemblyReference.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\011ConditionalExercises\obj\Debug\011ConditionalExercises.csproj.SuggestedBindingRedirects.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\011ConditionalExercises\obj\Debug\011ConditionalExercises.csproj.CoreCompileInputs.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\011ConditionalExercises\obj\Debug\011ConditionalExercises.exe
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\011ConditionalExercises\obj\Debug\011ConditionalExercises.pdb
