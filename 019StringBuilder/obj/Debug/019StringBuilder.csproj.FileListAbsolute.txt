@@ -1,0 +1,8 @@
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\019StringBuilder\bin\Debug\019StringBuilder.exe.config
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\019StringBuilder\bin\Debug\019StringBuilder.exe
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\019StringBuilder\bin\Debug\019StringBuilder.pdb
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\019StringBuilder\obj\Debug\019StringBuilder.csproj.AssemblyReference.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\019StringBuilder\obj\Debug\019StringBuilder.csproj.SuggestedBindingRedirects.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\019StringBuilder\obj\Debug\019StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\019StringBuilder\obj\Debug\019StringBuilder.exe
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\019StringBuilder\obj\Debug\019StringBuilder.pdb
