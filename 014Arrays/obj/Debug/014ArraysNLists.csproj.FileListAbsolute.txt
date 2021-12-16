@@ -1,0 +1,8 @@
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\014ArraysNLists\bin\Debug\014ArraysNLists.exe.config
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\014ArraysNLists\bin\Debug\014ArraysNLists.exe
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\014ArraysNLists\bin\Debug\014ArraysNLists.pdb
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\014ArraysNLists\obj\Debug\014ArraysNLists.csproj.AssemblyReference.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\014ArraysNLists\obj\Debug\014ArraysNLists.csproj.SuggestedBindingRedirects.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\014ArraysNLists\obj\Debug\014ArraysNLists.csproj.CoreCompileInputs.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\014ArraysNLists\obj\Debug\014ArraysNLists.exe
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\014ArraysNLists\obj\Debug\014ArraysNLists.pdb
