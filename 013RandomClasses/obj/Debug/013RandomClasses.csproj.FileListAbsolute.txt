@@ -1,0 +1,8 @@
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\013RandomClasses\bin\Debug\013RandomClasses.exe.config
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\013RandomClasses\bin\Debug\013RandomClasses.exe
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\013RandomClasses\bin\Debug\013RandomClasses.pdb
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\013RandomClasses\obj\Debug\013RandomClasses.csproj.AssemblyReference.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\013RandomClasses\obj\Debug\013RandomClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\013RandomClasses\obj\Debug\013RandomClasses.csproj.CoreCompileInputs.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\013RandomClasses\obj\Debug\013RandomClasses.exe
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\013RandomClasses\obj\Debug\013RandomClasses.pdb
