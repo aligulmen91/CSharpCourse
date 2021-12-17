@@ -12,7 +12,7 @@ namespace HelloWorld
     {
         
         /*void does not return anything
-         string[] args : input        */
+         string[] args : input       */
 
         static void Main(string[] args)
         {
