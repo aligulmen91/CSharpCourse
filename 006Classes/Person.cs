@@ -6,7 +6,7 @@ namespace _006Classes
         Class : Person
         Fields : Name, Age, Height, Weight
         Methods : Walk, talk, eat, sleep
-        objects : John, Mary, Scott
+        objects : John, Mary, Scott 
      */
 
     public class Person
