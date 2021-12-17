@@ -18,7 +18,7 @@ namespace _002Overflowing
             number = number + 1;                    // we add 1 to see overflow
             Console.WriteLine(number);              // the result will return '-2147483648' which is starting of integer values
 
-            /*To avoid this situation, lets use 'checked'*/
+            /*To avoid this situation, lets use 'checked' */
 
             checked
             {
