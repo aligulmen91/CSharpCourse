@@ -12,7 +12,7 @@ namespace _005Operators
         {
             /*Postfix Increment*/
             int a = 1;
-            int b = a++; /* We assign a to b first, and then we increase a. So, b will be 1 and a will be 2 */
+            int b = a++; /* We assign a to b first, and then we increase a . So, b will be 1 and a will be 2 */
             Console.WriteLine("postfix increment b= a++; a : " + a + " b : " + b);
 
             /*Prefix Increment*/
