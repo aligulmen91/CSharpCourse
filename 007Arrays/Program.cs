@@ -10,7 +10,7 @@ namespace _007Arrays
     {
         static void Main(string[] args)
         {
-            int[] numbers = new int[3];  /*or var numbers = new int[3];*/
+            int[] numbers = new int[3];  /*or var numbers = new int[3]; */
             numbers[0] = 1; 
             Console.WriteLine(numbers[0]);
             Console.WriteLine(numbers[1]);
