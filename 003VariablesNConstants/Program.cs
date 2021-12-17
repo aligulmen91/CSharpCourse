@@ -18,7 +18,7 @@ namespace _003VariablesNConstants
             char character = 'A';
             string firstName = "Ali";
             bool isWorking = true;
-            var numberTwo = 2; /*let the c# decide for the type, if you hover the 'var' you can see what system assign for the type*/
+            var numberTwo = 2; /*let the c# decide  for the type, if you hover the 'var' you can see what system assign for the type*/
             const float Pi = 3.14f;
 
           /*  Pi = 4 will give the error, because constant values can not be changed inside program. they are read-only values*/
