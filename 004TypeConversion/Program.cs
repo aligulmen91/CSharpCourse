@@ -12,7 +12,7 @@ namespace _004TypeConversion
         {
  
             /*Implicit Type Conversion*/
-            byte b = 0;                         /*  00000001  */   
+            byte b = 0;                         /*   00000001  */   
             int i = b;                          /* 00000000 00000000 00000000 00000001  data will not loose, it is safe  */
             float f = i;                        /* data will remain same, so it is safe */
 
