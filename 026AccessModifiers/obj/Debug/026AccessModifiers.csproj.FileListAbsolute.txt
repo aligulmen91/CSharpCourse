@@ -1,0 +1,8 @@
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\026AccessModifiers\bin\Debug\026AccessModifiers.exe.config
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\026AccessModifiers\bin\Debug\026AccessModifiers.exe
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\026AccessModifiers\bin\Debug\026AccessModifiers.pdb
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\026AccessModifiers\obj\Debug\026AccessModifiers.csproj.AssemblyReference.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\026AccessModifiers\obj\Debug\026AccessModifiers.csproj.SuggestedBindingRedirects.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\026AccessModifiers\obj\Debug\026AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\026AccessModifiers\obj\Debug\026AccessModifiers.exe
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\026AccessModifiers\obj\Debug\026AccessModifiers.pdb
