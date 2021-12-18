@@ -1,0 +1,8 @@
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\035ThirdPillarOfOOPPolyMorphism\bin\Debug\035ThirdPillarOfOOPPolyMorphism.exe.config
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\035ThirdPillarOfOOPPolyMorphism\bin\Debug\035ThirdPillarOfOOPPolyMorphism.exe
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\035ThirdPillarOfOOPPolyMorphism\bin\Debug\035ThirdPillarOfOOPPolyMorphism.pdb
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\035ThirdPillarOfOOPPolyMorphism\obj\Debug\035ThirdPillarOfOOPPolyMorphism.csproj.AssemblyReference.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\035ThirdPillarOfOOPPolyMorphism\obj\Debug\035ThirdPillarOfOOPPolyMorphism.csproj.SuggestedBindingRedirects.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\035ThirdPillarOfOOPPolyMorphism\obj\Debug\035ThirdPillarOfOOPPolyMorphism.csproj.CoreCompileInputs.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\035ThirdPillarOfOOPPolyMorphism\obj\Debug\035ThirdPillarOfOOPPolyMorphism.exe
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\035ThirdPillarOfOOPPolyMorphism\obj\Debug\035ThirdPillarOfOOPPolyMorphism.pdb
