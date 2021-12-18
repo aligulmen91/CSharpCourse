@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b8a75583-65de-430d-a7db-8761f32abeda": {
+      "ProjectGuid": "b8a75583-65de-430d-a7db-8761f32abeda",
+      "DisplayName": "031SecondPillarofOOPInheritance",
+      "ColorIndex": 0
+    },
+    "9476c573-f6da-4f8e-9888-b0b797dad347": {
+      "ProjectGuid": "9476c573-f6da-4f8e-9888-b0b797dad347",
+      "DisplayName": "Amazon",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

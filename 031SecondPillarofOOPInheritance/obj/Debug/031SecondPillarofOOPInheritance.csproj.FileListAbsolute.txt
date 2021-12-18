@@ -1,0 +1,2 @@
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\031SecondPillarofOOPInheritance\obj\Debug\031SecondPillarofOOPInheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\031SecondPillarofOOPInheritance\obj\Debug\031SecondPillarofOOPInheritance.csproj.CoreCompileInputs.cache
