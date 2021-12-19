@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d990cc01-a384-4c6d-9a53-f25bc3111801": {
+      "ProjectGuid": "d990cc01-a384-4c6d-9a53-f25bc3111801",
+      "DisplayName": "037Interfaces",
+      "ColorIndex": 0
+    },
+    "f389362f-c9c2-4b16-9a2e-a86bf863e225": {
+      "ProjectGuid": "f389362f-c9c2-4b16-9a2e-a86bf863e225",
+      "DisplayName": "037Interfaces.UnitTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
