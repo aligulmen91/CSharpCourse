@@ -1,0 +1,8 @@
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\041Delegates\obj\Debug\041Delegates.csproj.AssemblyReference.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\041Delegates\obj\Debug\041Delegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\041Delegates\obj\Debug\041Delegates.csproj.CoreCompileInputs.cache
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\041Delegates\bin\Debug\041Delegates.exe.config
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\041Delegates\bin\Debug\041Delegates.exe
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\041Delegates\bin\Debug\041Delegates.pdb
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\041Delegates\obj\Debug\041Delegates.exe
+C:\Users\aligu\Desktop\Egitimler\CodingWithMosh\03-C#\Projeler\041Delegates\obj\Debug\041Delegates.pdb
